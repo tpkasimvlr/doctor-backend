@@ -25,4 +25,4 @@
     }
  }
 
- export default authAdmin
+ export default authAdmin        
